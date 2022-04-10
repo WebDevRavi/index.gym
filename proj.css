@@ -1,0 +1,82 @@
+
+.navbar{
+    background-color: rgb(160, 95, 95);
+    border-radius: 35px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+
+}
+.navbar li a{
+   
+    padding: 10px 3px;
+    text-decoration: none;
+    color: white;
+}
+.navbar li a:hover{
+    color: rgb(120, 129, 186);
+}
+.search{
+    float: right;
+    color: white;
+    padding: 12px 25px;
+
+}
+.navbar input{
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 3px 12px;
+}
+/* #png{
+    width: 15px;
+} */
+#searchpng{
+    padding: 10px;
+    margin-top: 10px;
+}
+
+   
+/* img */
+
+body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("https://www.gannett-cdn.com/presto/2021/07/21/USAT/dfbd657c-1ef5-4dd9-b355-1619bdc2645f-GettyImages-924491214.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* img done */
+
+.h31st{
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 40px;
+    /* border-radius: 10px; */
+}
+.firstpara{
+    font-size: large;
+    padding: 10px 50px;
+}
+.headersof{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  ;
+}
+.darkquotes{
+    padding: 10px 5px;
+    margin: 0px 100px 0px;
+}
